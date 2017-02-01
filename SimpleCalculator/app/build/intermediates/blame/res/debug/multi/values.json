@@ -3503,8 +3503,8 @@
                     "startLine": 215,
                     "startColumn": 4,
                     "startOffset": 28857,
-                    "endColumn": 53,
-                    "endOffset": 28906
+                    "endColumn": 54,
+                    "endOffset": 28907
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\src\\main\\res\\values\\strings.xml",
@@ -3512,8 +3512,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 53,
-                        "endOffset": 66
+                        "endColumn": 54,
+                        "endOffset": 67
                     }
                 }
             },
@@ -3521,9 +3521,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 28911,
+                    "startOffset": 28912,
                     "endColumn": 70,
-                    "endOffset": 28977
+                    "endOffset": 28978
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3540,9 +3540,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 28982,
+                    "startOffset": 28983,
                     "endColumn": 77,
-                    "endOffset": 29055
+                    "endOffset": 29056
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3559,9 +3559,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 29060,
+                    "startOffset": 29061,
                     "endColumn": 89,
-                    "endOffset": 29145
+                    "endOffset": 29146
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3578,9 +3578,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 29150,
+                    "startOffset": 29151,
                     "endColumn": 87,
-                    "endOffset": 29233
+                    "endOffset": 29234
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3597,9 +3597,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 29238,
+                    "startOffset": 29239,
                     "endColumn": 95,
-                    "endOffset": 29329
+                    "endOffset": 29330
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3616,10 +3616,10 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 29334,
+                    "startOffset": 29335,
                     "endLine": 226,
                     "endColumn": 12,
-                    "endOffset": 29648
+                    "endOffset": 29649
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\src\\main\\res\\values\\styles.xml",
@@ -3637,10 +3637,10 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 29653,
+                    "startOffset": 29654,
                     "endLine": 233,
                     "endColumn": 12,
-                    "endOffset": 30149
+                    "endOffset": 30150
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3658,9 +3658,9 @@
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 30154,
+                    "startOffset": 30155,
                     "endColumn": 88,
-                    "endOffset": 30238
+                    "endOffset": 30239
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3677,10 +3677,10 @@
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 30243,
+                    "startOffset": 30244,
                     "endLine": 238,
                     "endColumn": 12,
-                    "endOffset": 30485
+                    "endOffset": 30486
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3698,10 +3698,10 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 30490,
+                    "startOffset": 30491,
                     "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 30766
+                    "endOffset": 30767
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3719,10 +3719,10 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 30771,
+                    "startOffset": 30772,
                     "endLine": 247,
                     "endColumn": 12,
-                    "endOffset": 31051
+                    "endOffset": 31052
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3740,10 +3740,10 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 31056,
+                    "startOffset": 31057,
                     "endLine": 253,
                     "endColumn": 12,
-                    "endOffset": 31444
+                    "endOffset": 31445
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3761,10 +3761,10 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 31449,
+                    "startOffset": 31450,
                     "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 31921
+                    "endOffset": 31922
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3782,10 +3782,10 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 31926,
+                    "startOffset": 31927,
                     "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 32143
+                    "endOffset": 32144
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3803,10 +3803,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 32148,
+                    "startOffset": 32149,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 32365
+                    "endOffset": 32366
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3824,10 +3824,10 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 32370,
+                    "startOffset": 32371,
                     "endLine": 273,
                     "endColumn": 12,
-                    "endOffset": 32633
+                    "endOffset": 32634
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3845,10 +3845,10 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 32638,
+                    "startOffset": 32639,
                     "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 32860
+                    "endOffset": 32861
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3866,10 +3866,10 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 32865,
+                    "startOffset": 32866,
                     "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 33090
+                    "endOffset": 33091
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3887,10 +3887,10 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 33095,
+                    "startOffset": 33096,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 33320
+                    "endOffset": 33321
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3908,10 +3908,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 33325,
+                    "startOffset": 33326,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 33550
+                    "endOffset": 33551
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3929,10 +3929,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 33555,
+                    "startOffset": 33556,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 33780
+                    "endOffset": 33781
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3950,10 +3950,10 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 33785,
+                    "startOffset": 33786,
                     "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 34007
+                    "endOffset": 34008
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3971,10 +3971,10 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 34012,
+                    "startOffset": 34013,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 34246
+                    "endOffset": 34247
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3992,10 +3992,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 34251,
+                    "startOffset": 34252,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 34472
+                    "endOffset": 34473
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4013,10 +4013,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 34477,
+                    "startOffset": 34478,
                     "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 34717
+                    "endOffset": 34718
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4034,10 +4034,10 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 34722,
+                    "startOffset": 34723,
                     "endLine": 311,
                     "endColumn": 12,
-                    "endOffset": 34847
+                    "endOffset": 34848
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4055,10 +4055,10 @@
                 "to": {
                     "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 34852,
+                    "startOffset": 34853,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 34977
+                    "endOffset": 34978
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4076,10 +4076,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 34982,
+                    "startOffset": 34983,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 35207
+                    "endOffset": 35208
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4097,10 +4097,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 35212,
+                    "startOffset": 35213,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 35455
+                    "endOffset": 35456
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4118,10 +4118,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 35460,
+                    "startOffset": 35461,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 35674
+                    "endOffset": 35675
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4139,10 +4139,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 35679,
+                    "startOffset": 35680,
                     "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 35957
+                    "endOffset": 35958
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4160,10 +4160,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 35962,
+                    "startOffset": 35963,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 36165
+                    "endOffset": 36166
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4181,10 +4181,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 36170,
+                    "startOffset": 36171,
                     "endLine": 337,
                     "endColumn": 12,
-                    "endOffset": 36296
+                    "endOffset": 36297
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4202,10 +4202,10 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 36301,
+                    "startOffset": 36302,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 36523
+                    "endOffset": 36524
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4223,10 +4223,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 36528,
+                    "startOffset": 36529,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 36769
+                    "endOffset": 36770
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4244,10 +4244,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 36774,
+                    "startOffset": 36775,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 36994
+                    "endOffset": 36995
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4265,10 +4265,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 36999,
+                    "startOffset": 37000,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 37241
+                    "endOffset": 37242
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4286,10 +4286,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 37246,
+                    "startOffset": 37247,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 37462
+                    "endOffset": 37463
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4307,10 +4307,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 37467,
+                    "startOffset": 37468,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 37707
+                    "endOffset": 37708
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4328,10 +4328,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 37712,
+                    "startOffset": 37713,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 37983
+                    "endOffset": 37984
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4349,10 +4349,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 37988,
+                    "startOffset": 37989,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 38284
+                    "endOffset": 38285
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4370,10 +4370,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 38289,
+                    "startOffset": 38290,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 38608
+                    "endOffset": 38609
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4391,10 +4391,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 38613,
+                    "startOffset": 38614,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 38899
+                    "endOffset": 38900
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4412,10 +4412,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 38904,
+                    "startOffset": 38905,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 39213
+                    "endOffset": 39214
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4433,9 +4433,9 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 39218,
+                    "startOffset": 39219,
                     "endColumn": 136,
-                    "endOffset": 39350
+                    "endOffset": 39351
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4452,9 +4452,9 @@
                 "to": {
                     "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 39355,
+                    "startOffset": 39356,
                     "endColumn": 130,
-                    "endOffset": 39481
+                    "endOffset": 39482
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4471,9 +4471,9 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 39486,
+                    "startOffset": 39487,
                     "endColumn": 104,
-                    "endOffset": 39586
+                    "endOffset": 39587
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4490,10 +4490,10 @@
                 "to": {
                     "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 39591,
+                    "startOffset": 39592,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 39790
+                    "endOffset": 39791
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4511,10 +4511,10 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 39795,
+                    "startOffset": 39796,
                     "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 39998
+                    "endOffset": 39999
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4532,10 +4532,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 40003,
+                    "startOffset": 40004,
                     "endLine": 392,
                     "endColumn": 12,
-                    "endOffset": 40122
+                    "endOffset": 40123
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4553,10 +4553,10 @@
                 "to": {
                     "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 40127,
+                    "startOffset": 40128,
                     "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 40246
+                    "endOffset": 40247
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4574,9 +4574,9 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 40251,
+                    "startOffset": 40252,
                     "endColumn": 104,
-                    "endOffset": 40351
+                    "endOffset": 40352
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4593,9 +4593,9 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 40356,
+                    "startOffset": 40357,
                     "endColumn": 116,
-                    "endOffset": 40468
+                    "endOffset": 40469
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4612,10 +4612,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 40473,
+                    "startOffset": 40474,
                     "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 40682
+                    "endOffset": 40683
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4633,10 +4633,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 40687,
+                    "startOffset": 40688,
                     "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 40828
+                    "endOffset": 40829
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4654,10 +4654,10 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 40833,
+                    "startOffset": 40834,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 40968
+                    "endOffset": 40969
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4675,10 +4675,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 40973,
+                    "startOffset": 40974,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 41054
+                    "endOffset": 41055
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4696,10 +4696,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 41059,
+                    "startOffset": 41060,
                     "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 41402
+                    "endOffset": 41403
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4717,9 +4717,9 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 41407,
+                    "startOffset": 41408,
                     "endColumn": 87,
-                    "endOffset": 41490
+                    "endOffset": 41491
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4736,10 +4736,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 41495,
+                    "startOffset": 41496,
                     "endLine": 415,
                     "endColumn": 12,
-                    "endOffset": 41720
+                    "endOffset": 41721
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4757,10 +4757,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 41725,
+                    "startOffset": 41726,
                     "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 42138
+                    "endOffset": 42139
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4778,10 +4778,10 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 42143,
+                    "startOffset": 42144,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 42371
+                    "endOffset": 42372
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4799,9 +4799,9 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 42376,
+                    "startOffset": 42377,
                     "endColumn": 81,
-                    "endOffset": 42453
+                    "endOffset": 42454
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4818,10 +4818,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 42458,
+                    "startOffset": 42459,
                     "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 42551
+                    "endOffset": 42552
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4839,10 +4839,10 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 42556,
+                    "startOffset": 42557,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 43168
+                    "endOffset": 43169
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4860,9 +4860,9 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 43173,
+                    "startOffset": 43174,
                     "endColumn": 99,
-                    "endOffset": 43268
+                    "endOffset": 43269
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4879,10 +4879,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 43273,
+                    "startOffset": 43274,
                     "endLine": 444,
                     "endColumn": 12,
-                    "endOffset": 43504
+                    "endOffset": 43505
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4900,10 +4900,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 43509,
+                    "startOffset": 43510,
                     "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 43928
+                    "endOffset": 43929
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4921,10 +4921,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 43933,
+                    "startOffset": 43934,
                     "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 44167
+                    "endOffset": 44168
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4942,9 +4942,9 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 44172,
+                    "startOffset": 44173,
                     "endColumn": 93,
-                    "endOffset": 44261
+                    "endOffset": 44262
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4961,9 +4961,9 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 44266,
+                    "startOffset": 44267,
                     "endColumn": 88,
-                    "endOffset": 44350
+                    "endOffset": 44351
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4980,10 +4980,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 44355,
+                    "startOffset": 44356,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 44587
+                    "endOffset": 44588
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5001,10 +5001,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 44592,
+                    "startOffset": 44593,
                     "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 46538
+                    "endOffset": 46539
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5022,10 +5022,10 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 46543,
+                    "startOffset": 46544,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 46780
+                    "endOffset": 46781
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5043,10 +5043,10 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 46785,
+                    "startOffset": 46786,
                     "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 48862
+                    "endOffset": 48863
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5064,10 +5064,10 @@
                 "to": {
                     "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 48867,
+                    "startOffset": 48868,
                     "endLine": 672,
                     "endColumn": 12,
-                    "endOffset": 58728
+                    "endOffset": 58729
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5085,10 +5085,10 @@
                 "to": {
                     "startLine": 673,
                     "startColumn": 4,
-                    "startOffset": 58733,
+                    "startOffset": 58734,
                     "endLine": 694,
                     "endColumn": 12,
-                    "endOffset": 59995
+                    "endOffset": 59996
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5106,10 +5106,10 @@
                 "to": {
                     "startLine": 695,
                     "startColumn": 4,
-                    "startOffset": 60000,
+                    "startOffset": 60001,
                     "endLine": 849,
                     "endColumn": 12,
-                    "endOffset": 69971
+                    "endOffset": 69972
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5127,10 +5127,10 @@
                 "to": {
                     "startLine": 850,
                     "startColumn": 4,
-                    "startOffset": 69976,
+                    "startOffset": 69977,
                     "endLine": 871,
                     "endColumn": 12,
-                    "endOffset": 71252
+                    "endOffset": 71253
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5148,10 +5148,10 @@
                 "to": {
                     "startLine": 872,
                     "startColumn": 4,
-                    "startOffset": 71257,
+                    "startOffset": 71258,
                     "endLine": 878,
                     "endColumn": 12,
-                    "endOffset": 71788
+                    "endOffset": 71789
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5169,10 +5169,10 @@
                 "to": {
                     "startLine": 879,
                     "startColumn": 4,
-                    "startOffset": 71793,
+                    "startOffset": 71794,
                     "endLine": 883,
                     "endColumn": 12,
-                    "endOffset": 72118
+                    "endOffset": 72119
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5190,10 +5190,10 @@
                 "to": {
                     "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 72123,
+                    "startOffset": 72124,
                     "endLine": 904,
                     "endColumn": 12,
-                    "endOffset": 73241
+                    "endOffset": 73242
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5211,10 +5211,10 @@
                 "to": {
                     "startLine": 905,
                     "startColumn": 4,
-                    "startOffset": 73246,
+                    "startOffset": 73247,
                     "endLine": 909,
                     "endColumn": 12,
-                    "endOffset": 73497
+                    "endOffset": 73498
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5232,10 +5232,10 @@
                 "to": {
                     "startLine": 910,
                     "startColumn": 4,
-                    "startOffset": 73502,
+                    "startOffset": 73503,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 73733
+                    "endOffset": 73734
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5253,10 +5253,10 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 73738,
+                    "startOffset": 73739,
                     "endLine": 924,
                     "endColumn": 12,
-                    "endOffset": 74280
+                    "endOffset": 74281
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5274,10 +5274,10 @@
                 "to": {
                     "startLine": 925,
                     "startColumn": 4,
-                    "startOffset": 74285,
+                    "startOffset": 74286,
                     "endLine": 933,
                     "endColumn": 12,
-                    "endOffset": 74774
+                    "endOffset": 74775
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5295,10 +5295,10 @@
                 "to": {
                     "startLine": 934,
                     "startColumn": 4,
-                    "startOffset": 74779,
+                    "startOffset": 74780,
                     "endLine": 942,
                     "endColumn": 12,
-                    "endOffset": 75379
+                    "endOffset": 75380
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5316,10 +5316,10 @@
                 "to": {
                     "startLine": 943,
                     "startColumn": 4,
-                    "startOffset": 75384,
+                    "startOffset": 75385,
                     "endLine": 945,
                     "endColumn": 12,
-                    "endOffset": 75527
+                    "endOffset": 75528
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5337,10 +5337,10 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 75532,
+                    "startOffset": 75533,
                     "endLine": 952,
                     "endColumn": 12,
-                    "endOffset": 76115
+                    "endOffset": 76116
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5358,10 +5358,10 @@
                 "to": {
                     "startLine": 953,
                     "startColumn": 4,
-                    "startOffset": 76120,
+                    "startOffset": 76121,
                     "endLine": 960,
                     "endColumn": 12,
-                    "endOffset": 76679
+                    "endOffset": 76680
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5379,10 +5379,10 @@
                 "to": {
                     "startLine": 961,
                     "startColumn": 4,
-                    "startOffset": 76684,
+                    "startOffset": 76685,
                     "endLine": 967,
                     "endColumn": 12,
-                    "endOffset": 77054
+                    "endOffset": 77055
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5400,9 +5400,9 @@
                 "to": {
                     "startLine": 968,
                     "startColumn": 4,
-                    "startOffset": 77059,
+                    "startOffset": 77060,
                     "endColumn": 117,
-                    "endOffset": 77172
+                    "endOffset": 77173
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5419,10 +5419,10 @@
                 "to": {
                     "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 77177,
+                    "startOffset": 77178,
                     "endLine": 977,
                     "endColumn": 12,
-                    "endOffset": 77710
+                    "endOffset": 77711
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5440,10 +5440,10 @@
                 "to": {
                     "startLine": 978,
                     "startColumn": 4,
-                    "startOffset": 77715,
+                    "startOffset": 77716,
                     "endLine": 980,
                     "endColumn": 12,
-                    "endOffset": 77867
+                    "endOffset": 77868
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5461,10 +5461,10 @@
                 "to": {
                     "startLine": 981,
                     "startColumn": 4,
-                    "startOffset": 77872,
+                    "startOffset": 77873,
                     "endLine": 983,
                     "endColumn": 12,
-                    "endOffset": 78011
+                    "endOffset": 78012
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5482,10 +5482,10 @@
                 "to": {
                     "startLine": 984,
                     "startColumn": 4,
-                    "startOffset": 78016,
+                    "startOffset": 78017,
                     "endLine": 988,
                     "endColumn": 12,
-                    "endOffset": 78331
+                    "endOffset": 78332
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5503,10 +5503,10 @@
                 "to": {
                     "startLine": 989,
                     "startColumn": 4,
-                    "startOffset": 78336,
+                    "startOffset": 78337,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 78587
+                    "endOffset": 78588
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5524,10 +5524,10 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 78592,
+                    "startOffset": 78593,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 78757
+                    "endOffset": 78758
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5545,10 +5545,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 78762,
+                    "startOffset": 78763,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 78898
+                    "endOffset": 78899
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5566,9 +5566,9 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 78903,
+                    "startOffset": 78904,
                     "endColumn": 63,
-                    "endOffset": 78962
+                    "endOffset": 78963
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5585,10 +5585,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 78967,
+                    "startOffset": 78968,
                     "endLine": 1004,
                     "endColumn": 12,
-                    "endOffset": 79244
+                    "endOffset": 79245
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5606,10 +5606,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 79249,
+                    "startOffset": 79250,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 79530
+                    "endOffset": 79531
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5627,10 +5627,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 79535,
+                    "startOffset": 79536,
                     "endLine": 1018,
                     "endColumn": 12,
-                    "endOffset": 80206
+                    "endOffset": 80207
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5648,10 +5648,10 @@
                 "to": {
                     "startLine": 1019,
                     "startColumn": 4,
-                    "startOffset": 80211,
+                    "startOffset": 80212,
                     "endLine": 1023,
                     "endColumn": 12,
-                    "endOffset": 80470
+                    "endOffset": 80471
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5669,10 +5669,10 @@
                 "to": {
                     "startLine": 1024,
                     "startColumn": 4,
-                    "startOffset": 80475,
+                    "startOffset": 80476,
                     "endLine": 1030,
                     "endColumn": 12,
-                    "endOffset": 80808
+                    "endOffset": 80809
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5690,10 +5690,10 @@
                 "to": {
                     "startLine": 1031,
                     "startColumn": 4,
-                    "startOffset": 80813,
+                    "startOffset": 80814,
                     "endLine": 1036,
                     "endColumn": 12,
-                    "endOffset": 81161
+                    "endOffset": 81162
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5711,9 +5711,9 @@
                 "to": {
                     "startLine": 1037,
                     "startColumn": 4,
-                    "startOffset": 81166,
+                    "startOffset": 81167,
                     "endColumn": 93,
-                    "endOffset": 81255
+                    "endOffset": 81256
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5730,10 +5730,10 @@
                 "to": {
                     "startLine": 1038,
                     "startColumn": 4,
-                    "startOffset": 81260,
+                    "startOffset": 81261,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 81441
+                    "endOffset": 81442
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5751,10 +5751,10 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 81446,
+                    "startOffset": 81447,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 81747
+                    "endOffset": 81748
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5772,10 +5772,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 81752,
+                    "startOffset": 81753,
                     "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 82009
+                    "endOffset": 82010
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5793,10 +5793,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 82014,
+                    "startOffset": 82015,
                     "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 82134
+                    "endOffset": 82135
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5814,10 +5814,10 @@
                 "to": {
                     "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 82139,
+                    "startOffset": 82140,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 82261
+                    "endOffset": 82262
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5835,10 +5835,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 82266,
+                    "startOffset": 82267,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 82500
+                    "endOffset": 82501
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5856,10 +5856,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 82505,
+                    "startOffset": 82506,
                     "endLine": 1059,
                     "endColumn": 12,
-                    "endOffset": 82711
+                    "endOffset": 82712
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5877,10 +5877,10 @@
                 "to": {
                     "startLine": 1060,
                     "startColumn": 4,
-                    "startOffset": 82716,
+                    "startOffset": 82717,
                     "endLine": 1061,
                     "endColumn": 12,
-                    "endOffset": 82830
+                    "endOffset": 82831
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5898,10 +5898,10 @@
                 "to": {
                     "startLine": 1062,
                     "startColumn": 4,
-                    "startOffset": 82835,
+                    "startOffset": 82836,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 83023
+                    "endOffset": 83024
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5919,10 +5919,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 83028,
+                    "startOffset": 83029,
                     "endLine": 1072,
                     "endColumn": 12,
-                    "endOffset": 83478
+                    "endOffset": 83479
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5940,10 +5940,10 @@
                 "to": {
                     "startLine": 1073,
                     "startColumn": 4,
-                    "startOffset": 83483,
+                    "startOffset": 83484,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 83659
+                    "endOffset": 83660
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5961,10 +5961,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 83664,
+                    "startOffset": 83665,
                     "endLine": 1078,
                     "endColumn": 12,
-                    "endOffset": 83781
+                    "endOffset": 83782
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5982,10 +5982,10 @@
                 "to": {
                     "startLine": 1079,
                     "startColumn": 4,
-                    "startOffset": 83786,
+                    "startOffset": 83787,
                     "endLine": 1082,
                     "endColumn": 12,
-                    "endOffset": 84040
+                    "endOffset": 84041
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6003,10 +6003,10 @@
                 "to": {
                     "startLine": 1083,
                     "startColumn": 4,
-                    "startOffset": 84045,
+                    "startOffset": 84046,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 84153
+                    "endOffset": 84154
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6024,10 +6024,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 84158,
+                    "startOffset": 84159,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 84340
+                    "endOffset": 84341
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6045,10 +6045,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 84345,
+                    "startOffset": 84346,
                     "endLine": 1090,
                     "endColumn": 12,
-                    "endOffset": 84442
+                    "endOffset": 84443
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6066,10 +6066,10 @@
                 "to": {
                     "startLine": 1091,
                     "startColumn": 4,
-                    "startOffset": 84447,
+                    "startOffset": 84448,
                     "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 84886
+                    "endOffset": 84887
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6087,10 +6087,10 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 84891,
+                    "startOffset": 84892,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 85010
+                    "endOffset": 85011
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6108,10 +6108,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 85015,
+                    "startOffset": 85016,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 85295
+                    "endOffset": 85296
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6129,10 +6129,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 85300,
+                    "startOffset": 85301,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 85803
+                    "endOffset": 85804
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6150,10 +6150,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 85808,
+                    "startOffset": 85809,
                     "endLine": 1118,
                     "endColumn": 12,
-                    "endOffset": 86299
+                    "endOffset": 86300
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6171,10 +6171,10 @@
                 "to": {
                     "startLine": 1119,
                     "startColumn": 4,
-                    "startOffset": 86304,
+                    "startOffset": 86305,
                     "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 87186
+                    "endOffset": 87187
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6192,10 +6192,10 @@
                 "to": {
                     "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 87191,
+                    "startOffset": 87192,
                     "endLine": 1136,
                     "endColumn": 12,
-                    "endOffset": 87480
+                    "endOffset": 87481
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6213,10 +6213,10 @@
                 "to": {
                     "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 87485,
+                    "startOffset": 87486,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 88050
+                    "endOffset": 88051
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6234,10 +6234,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 88055,
+                    "startOffset": 88056,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 88782
+                    "endOffset": 88783
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6255,10 +6255,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 88787,
+                    "startOffset": 88788,
                     "endLine": 1159,
                     "endColumn": 12,
-                    "endOffset": 88954
+                    "endOffset": 88955
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6276,10 +6276,10 @@
                 "to": {
                     "startLine": 1160,
                     "startColumn": 4,
-                    "startOffset": 88959,
+                    "startOffset": 88960,
                     "endLine": 1164,
                     "endColumn": 12,
-                    "endOffset": 89290
+                    "endOffset": 89291
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6297,10 +6297,10 @@
                 "to": {
                     "startLine": 1165,
                     "startColumn": 4,
-                    "startOffset": 89295,
+                    "startOffset": 89296,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 90198
+                    "endOffset": 90199
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6318,10 +6318,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 90203,
+                    "startOffset": 90204,
                     "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 90476
+                    "endOffset": 90477
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6339,10 +6339,10 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 90481,
+                    "startOffset": 90482,
                     "endLine": 1219,
                     "endColumn": 12,
-                    "endOffset": 93338
+                    "endOffset": 93339
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6360,10 +6360,10 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 93343,
+                    "startOffset": 93344,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 96340
+                    "endOffset": 96341
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6381,9 +6381,9 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 96345,
+                    "startOffset": 96346,
                     "endColumn": 61,
-                    "endOffset": 96402
+                    "endOffset": 96403
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6400,10 +6400,10 @@
                 "to": {
                     "startLine": 1260,
                     "startColumn": 4,
-                    "startOffset": 96407,
+                    "startOffset": 96408,
                     "endLine": 1269,
                     "endColumn": 12,
-                    "endOffset": 97032
+                    "endOffset": 97033
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6421,10 +6421,10 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 97037,
+                    "startOffset": 97038,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 97646
+                    "endOffset": 97647
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6442,9 +6442,9 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 97651,
+                    "startOffset": 97652,
                     "endColumn": 85,
-                    "endOffset": 97732
+                    "endOffset": 97733
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6461,10 +6461,10 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 97737,
+                    "startOffset": 97738,
                     "endLine": 1281,
                     "endColumn": 12,
-                    "endOffset": 97845
+                    "endOffset": 97846
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6482,10 +6482,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 97850,
+                    "startOffset": 97851,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 98074
+                    "endOffset": 98075
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6503,10 +6503,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 98079,
+                    "startOffset": 98080,
                     "endLine": 1288,
                     "endColumn": 12,
-                    "endOffset": 98234
+                    "endOffset": 98235
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6524,10 +6524,10 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 98239,
+                    "startOffset": 98240,
                     "endLine": 1291,
                     "endColumn": 12,
-                    "endOffset": 98386
+                    "endOffset": 98387
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6545,10 +6545,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 98391,
+                    "startOffset": 98392,
                     "endLine": 1294,
                     "endColumn": 12,
-                    "endOffset": 98557
+                    "endOffset": 98558
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6566,10 +6566,10 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 98562,
+                    "startOffset": 98563,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 98724
+                    "endOffset": 98725
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6587,10 +6587,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 98729,
+                    "startOffset": 98730,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 98967
+                    "endOffset": 98968
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6608,10 +6608,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 98972,
+                    "startOffset": 98973,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 99137
+                    "endOffset": 99138
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6629,10 +6629,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 99142,
+                    "startOffset": 99143,
                     "endLine": 1307,
                     "endColumn": 12,
-                    "endOffset": 99310
+                    "endOffset": 99311
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6650,10 +6650,10 @@
                 "to": {
                     "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 99315,
+                    "startOffset": 99316,
                     "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 99481
+                    "endOffset": 99482
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6671,10 +6671,10 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 99486,
+                    "startOffset": 99487,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 99755
+                    "endOffset": 99756
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6692,10 +6692,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99760,
+                    "startOffset": 99761,
                     "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 99954
+                    "endOffset": 99955
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6713,10 +6713,10 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 99959,
+                    "startOffset": 99960,
                     "endLine": 1321,
                     "endColumn": 12,
-                    "endOffset": 100159
+                    "endOffset": 100160
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6734,10 +6734,10 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 100164,
+                    "startOffset": 100165,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 100489
+                    "endOffset": 100490
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6755,9 +6755,9 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100494,
+                    "startOffset": 100495,
                     "endColumn": 83,
-                    "endOffset": 100573
+                    "endOffset": 100574
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6774,9 +6774,9 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 100578,
+                    "startOffset": 100579,
                     "endColumn": 95,
-                    "endOffset": 100669
+                    "endOffset": 100670
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6793,9 +6793,9 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 100674,
+                    "startOffset": 100675,
                     "endColumn": 95,
-                    "endOffset": 100765
+                    "endOffset": 100766
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6812,9 +6812,9 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 100770,
+                    "startOffset": 100771,
                     "endColumn": 97,
-                    "endOffset": 100863
+                    "endOffset": 100864
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6831,9 +6831,9 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 100868,
+                    "startOffset": 100869,
                     "endColumn": 99,
-                    "endOffset": 100963
+                    "endOffset": 100964
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6850,9 +6850,9 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100968,
+                    "startOffset": 100969,
                     "endColumn": 101,
-                    "endOffset": 101065
+                    "endOffset": 101066
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6869,9 +6869,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 101070,
+                    "startOffset": 101071,
                     "endColumn": 101,
-                    "endOffset": 101167
+                    "endOffset": 101168
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6888,9 +6888,9 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 101172,
+                    "startOffset": 101173,
                     "endColumn": 101,
-                    "endOffset": 101269
+                    "endOffset": 101270
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6907,9 +6907,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101274,
+                    "startOffset": 101275,
                     "endColumn": 101,
-                    "endOffset": 101371
+                    "endOffset": 101372
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6926,9 +6926,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 101376,
+                    "startOffset": 101377,
                     "endColumn": 101,
-                    "endOffset": 101473
+                    "endOffset": 101474
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6945,9 +6945,9 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101478,
+                    "startOffset": 101479,
                     "endColumn": 99,
-                    "endOffset": 101573
+                    "endOffset": 101574
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6964,9 +6964,9 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 101578,
+                    "startOffset": 101579,
                     "endColumn": 95,
-                    "endOffset": 101669
+                    "endOffset": 101670
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6983,9 +6983,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101674,
+                    "startOffset": 101675,
                     "endColumn": 111,
-                    "endOffset": 101781
+                    "endOffset": 101782
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7002,9 +7002,9 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 101786,
+                    "startOffset": 101787,
                     "endColumn": 128,
-                    "endOffset": 101910
+                    "endOffset": 101911
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7021,9 +7021,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101915,
+                    "startOffset": 101916,
                     "endColumn": 122,
-                    "endOffset": 102033
+                    "endOffset": 102034
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7040,10 +7040,10 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 102038,
+                    "startOffset": 102039,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 102187
+                    "endOffset": 102188
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7061,10 +7061,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102192,
+                    "startOffset": 102193,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 102341
+                    "endOffset": 102342
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7082,9 +7082,9 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102346,
+                    "startOffset": 102347,
                     "endColumn": 97,
-                    "endOffset": 102439
+                    "endOffset": 102440
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7101,9 +7101,9 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 102444,
+                    "startOffset": 102445,
                     "endColumn": 113,
-                    "endOffset": 102553
+                    "endOffset": 102554
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7120,9 +7120,9 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 102558,
+                    "startOffset": 102559,
                     "endColumn": 93,
-                    "endOffset": 102647
+                    "endOffset": 102648
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7139,10 +7139,10 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 102652,
+                    "startOffset": 102653,
                     "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 102787
+                    "endOffset": 102788
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7160,10 +7160,10 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102792,
+                    "startOffset": 102793,
                     "endLine": 1351,
                     "endColumn": 12,
-                    "endOffset": 102921
+                    "endOffset": 102922
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7181,9 +7181,9 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 102926,
+                    "startOffset": 102927,
                     "endColumn": 95,
-                    "endOffset": 103017
+                    "endOffset": 103018
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7200,9 +7200,9 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 103022,
+                    "startOffset": 103023,
                     "endColumn": 111,
-                    "endOffset": 103129
+                    "endOffset": 103130
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7219,9 +7219,9 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 103134,
+                    "startOffset": 103135,
                     "endColumn": 99,
-                    "endOffset": 103229
+                    "endOffset": 103230
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7238,9 +7238,9 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 103234,
+                    "startOffset": 103235,
                     "endColumn": 115,
-                    "endOffset": 103345
+                    "endOffset": 103346
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7257,9 +7257,9 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103350,
+                    "startOffset": 103351,
                     "endColumn": 95,
-                    "endOffset": 103441
+                    "endOffset": 103442
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7276,9 +7276,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 103446,
+                    "startOffset": 103447,
                     "endColumn": 111,
-                    "endOffset": 103553
+                    "endOffset": 103554
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7295,10 +7295,10 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103558,
+                    "startOffset": 103559,
                     "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 103693
+                    "endOffset": 103694
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7316,9 +7316,9 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103698,
+                    "startOffset": 103699,
                     "endColumn": 135,
-                    "endOffset": 103829
+                    "endOffset": 103830
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7335,10 +7335,10 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 103834,
+                    "startOffset": 103835,
                     "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 103993
+                    "endOffset": 103994
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7356,9 +7356,9 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 103998,
+                    "startOffset": 103999,
                     "endColumn": 129,
-                    "endOffset": 104123
+                    "endOffset": 104124
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7375,10 +7375,10 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 104128,
+                    "startOffset": 104129,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 104281
+                    "endOffset": 104282
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7396,10 +7396,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 104286,
+                    "startOffset": 104287,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 104431
+                    "endOffset": 104432
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7417,9 +7417,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104436,
+                    "startOffset": 104437,
                     "endColumn": 140,
-                    "endOffset": 104572
+                    "endOffset": 104573
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7436,10 +7436,10 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104577,
+                    "startOffset": 104578,
                     "endLine": 1370,
                     "endColumn": 12,
-                    "endOffset": 104716
+                    "endOffset": 104717
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7457,9 +7457,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104721,
+                    "startOffset": 104722,
                     "endColumn": 134,
-                    "endOffset": 104851
+                    "endOffset": 104852
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7476,9 +7476,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 104856,
+                    "startOffset": 104857,
                     "endColumn": 111,
-                    "endOffset": 104963
+                    "endOffset": 104964
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7495,9 +7495,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104968,
+                    "startOffset": 104969,
                     "endColumn": 127,
-                    "endOffset": 105091
+                    "endOffset": 105092
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7514,10 +7514,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 105096,
+                    "startOffset": 105097,
                     "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 105227
+                    "endOffset": 105228
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7535,10 +7535,10 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105232,
+                    "startOffset": 105233,
                     "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 105369
+                    "endOffset": 105370
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7556,10 +7556,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 105374,
+                    "startOffset": 105375,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 105511
+                    "endOffset": 105512
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7577,9 +7577,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105516,
+                    "startOffset": 105517,
                     "endColumn": 111,
-                    "endOffset": 105623
+                    "endOffset": 105624
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7596,9 +7596,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105628,
+                    "startOffset": 105629,
                     "endColumn": 139,
-                    "endOffset": 105763
+                    "endOffset": 105764
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7615,9 +7615,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105768,
+                    "startOffset": 105769,
                     "endColumn": 67,
-                    "endOffset": 105831
+                    "endOffset": 105832
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7634,9 +7634,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105836,
+                    "startOffset": 105837,
                     "endColumn": 72,
-                    "endOffset": 105904
+                    "endOffset": 105905
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7653,9 +7653,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105909,
+                    "startOffset": 105910,
                     "endColumn": 73,
-                    "endOffset": 105978
+                    "endOffset": 105979
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7672,9 +7672,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105983,
+                    "startOffset": 105984,
                     "endColumn": 72,
-                    "endOffset": 106051
+                    "endOffset": 106052
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7691,9 +7691,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106056,
+                    "startOffset": 106057,
                     "endColumn": 73,
-                    "endOffset": 106125
+                    "endOffset": 106126
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7710,10 +7710,10 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 106130,
+                    "startOffset": 106131,
                     "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 106271
+                    "endOffset": 106272
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7731,10 +7731,10 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 106276,
+                    "startOffset": 106277,
                     "endLine": 1390,
                     "endColumn": 12,
-                    "endOffset": 106415
+                    "endOffset": 106416
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7752,10 +7752,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 106420,
+                    "startOffset": 106421,
                     "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 106553
+                    "endOffset": 106554
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7773,9 +7773,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 106558,
+                    "startOffset": 106559,
                     "endColumn": 65,
-                    "endOffset": 106619
+                    "endOffset": 106620
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7792,9 +7792,9 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 106624,
+                    "startOffset": 106625,
                     "endColumn": 89,
-                    "endOffset": 106709
+                    "endOffset": 106710
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7811,9 +7811,9 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 106714,
+                    "startOffset": 106715,
                     "endColumn": 75,
-                    "endOffset": 106785
+                    "endOffset": 106786
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7830,9 +7830,9 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 106790,
+                    "startOffset": 106791,
                     "endColumn": 103,
-                    "endOffset": 106889
+                    "endOffset": 106890
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7849,9 +7849,9 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106894,
+                    "startOffset": 106895,
                     "endColumn": 89,
-                    "endOffset": 106979
+                    "endOffset": 106980
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7868,9 +7868,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 106984,
+                    "startOffset": 106985,
                     "endColumn": 101,
-                    "endOffset": 107081
+                    "endOffset": 107082
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7887,9 +7887,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 107086,
+                    "startOffset": 107087,
                     "endColumn": 107,
-                    "endOffset": 107189
+                    "endOffset": 107190
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7906,9 +7906,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 107194,
+                    "startOffset": 107195,
                     "endColumn": 107,
-                    "endOffset": 107297
+                    "endOffset": 107298
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7925,9 +7925,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 107302,
+                    "startOffset": 107303,
                     "endColumn": 99,
-                    "endOffset": 107397
+                    "endOffset": 107398
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7944,9 +7944,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107402,
+                    "startOffset": 107403,
                     "endColumn": 79,
-                    "endOffset": 107477
+                    "endOffset": 107478
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7963,9 +7963,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 107482,
+                    "startOffset": 107483,
                     "endColumn": 91,
-                    "endOffset": 107569
+                    "endOffset": 107570
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7982,9 +7982,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107574,
+                    "startOffset": 107575,
                     "endColumn": 97,
-                    "endOffset": 107667
+                    "endOffset": 107668
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8001,10 +8001,10 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107672,
+                    "startOffset": 107673,
                     "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 107777
+                    "endOffset": 107778
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8022,9 +8022,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 107782,
+                    "startOffset": 107783,
                     "endColumn": 77,
-                    "endOffset": 107855
+                    "endOffset": 107856
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8041,9 +8041,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107860,
+                    "startOffset": 107861,
                     "endColumn": 105,
-                    "endOffset": 107961
+                    "endOffset": 107962
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8060,9 +8060,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107966,
+                    "startOffset": 107967,
                     "endColumn": 91,
-                    "endOffset": 108053
+                    "endOffset": 108054
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8079,9 +8079,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 108058,
+                    "startOffset": 108059,
                     "endColumn": 103,
-                    "endOffset": 108157
+                    "endOffset": 108158
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8098,9 +8098,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 108162,
+                    "startOffset": 108163,
                     "endColumn": 109,
-                    "endOffset": 108267
+                    "endOffset": 108268
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8117,10 +8117,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108272,
+                    "startOffset": 108273,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 108389
+                    "endOffset": 108390
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8138,10 +8138,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108394,
+                    "startOffset": 108395,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 108552
+                    "endOffset": 108553
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8159,10 +8159,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108557,
+                    "startOffset": 108558,
                     "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 108709
+                    "endOffset": 108710
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8180,9 +8180,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108714,
+                    "startOffset": 108715,
                     "endColumn": 79,
-                    "endOffset": 108789
+                    "endOffset": 108790
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8199,9 +8199,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108794,
+                    "startOffset": 108795,
                     "endColumn": 99,
-                    "endOffset": 108889
+                    "endOffset": 108890
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8218,9 +8218,9 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 108894,
+                    "startOffset": 108895,
                     "endColumn": 89,
-                    "endOffset": 108979
+                    "endOffset": 108980
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8237,9 +8237,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108984,
+                    "startOffset": 108985,
                     "endColumn": 109,
-                    "endOffset": 109089
+                    "endOffset": 109090
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8256,9 +8256,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109094,
+                    "startOffset": 109095,
                     "endColumn": 91,
-                    "endOffset": 109181
+                    "endOffset": 109182
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8275,10 +8275,10 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 109186,
+                    "startOffset": 109187,
                     "endLine": 1428,
                     "endColumn": 12,
-                    "endOffset": 109281
+                    "endOffset": 109282
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8296,10 +8296,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 109286,
+                    "startOffset": 109287,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 109393
+                    "endOffset": 109394
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8317,10 +8317,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 109398,
+                    "startOffset": 109399,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 109507
+                    "endOffset": 109508
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8338,10 +8338,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109512,
+                    "startOffset": 109513,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 109623
+                    "endOffset": 109624
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8359,10 +8359,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 109628,
+                    "startOffset": 109629,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 109739
+                    "endOffset": 109740
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8380,9 +8380,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 109744,
+                    "startOffset": 109745,
                     "endColumn": 93,
-                    "endOffset": 109833
+                    "endOffset": 109834
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8399,9 +8399,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 109838,
+                    "startOffset": 109839,
                     "endColumn": 113,
-                    "endOffset": 109947
+                    "endOffset": 109948
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8418,9 +8418,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109952,
+                    "startOffset": 109953,
                     "endColumn": 111,
-                    "endOffset": 110059
+                    "endOffset": 110060
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8437,10 +8437,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 110064,
+                    "startOffset": 110065,
                     "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 110161
+                    "endOffset": 110162
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8458,10 +8458,10 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 110166,
+                    "startOffset": 110167,
                     "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 110281
+                    "endOffset": 110282
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8479,10 +8479,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 110286,
+                    "startOffset": 110287,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 110403
+                    "endOffset": 110404
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8500,9 +8500,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110408,
+                    "startOffset": 110409,
                     "endColumn": 81,
-                    "endOffset": 110485
+                    "endOffset": 110486
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8519,9 +8519,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 110490,
+                    "startOffset": 110491,
                     "endColumn": 103,
-                    "endOffset": 110589
+                    "endOffset": 110590
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8538,9 +8538,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110594,
+                    "startOffset": 110595,
                     "endColumn": 119,
-                    "endOffset": 110709
+                    "endOffset": 110710
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8557,9 +8557,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 110714,
+                    "startOffset": 110715,
                     "endColumn": 125,
-                    "endOffset": 110835
+                    "endOffset": 110836
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8576,9 +8576,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 110840,
+                    "startOffset": 110841,
                     "endColumn": 97,
-                    "endOffset": 110933
+                    "endOffset": 110934
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8595,9 +8595,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 110938,
+                    "startOffset": 110939,
                     "endColumn": 93,
-                    "endOffset": 111027
+                    "endOffset": 111028
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8614,9 +8614,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111032,
+                    "startOffset": 111033,
                     "endColumn": 87,
-                    "endOffset": 111115
+                    "endOffset": 111116
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8633,9 +8633,9 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 111120,
+                    "startOffset": 111121,
                     "endColumn": 111,
-                    "endOffset": 111227
+                    "endOffset": 111228
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8652,9 +8652,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 111232,
+                    "startOffset": 111233,
                     "endColumn": 115,
-                    "endOffset": 111343
+                    "endOffset": 111344
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8671,9 +8671,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111348,
+                    "startOffset": 111349,
                     "endColumn": 121,
-                    "endOffset": 111465
+                    "endOffset": 111466
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8690,9 +8690,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111470,
+                    "startOffset": 111471,
                     "endColumn": 111,
-                    "endOffset": 111577
+                    "endOffset": 111578
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8709,10 +8709,10 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 111582,
+                    "startOffset": 111583,
                     "endLine": 1459,
                     "endColumn": 12,
-                    "endOffset": 111752
+                    "endOffset": 111753
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8730,9 +8730,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111757,
+                    "startOffset": 111758,
                     "endColumn": 115,
-                    "endOffset": 111868
+                    "endOffset": 111869
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8749,9 +8749,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111873,
+                    "startOffset": 111874,
                     "endColumn": 85,
-                    "endOffset": 111954
+                    "endOffset": 111955
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8768,9 +8768,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 111959,
+                    "startOffset": 111960,
                     "endColumn": 91,
-                    "endOffset": 112046
+                    "endOffset": 112047
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8787,10 +8787,10 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 112051,
+                    "startOffset": 112052,
                     "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 112158
+                    "endOffset": 112159
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8808,10 +8808,10 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 112163,
+                    "startOffset": 112164,
                     "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 112282
+                    "endOffset": 112283
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8829,9 +8829,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 112287,
+                    "startOffset": 112288,
                     "endColumn": 66,
-                    "endOffset": 112349
+                    "endOffset": 112350
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8848,10 +8848,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 112354,
+                    "startOffset": 112355,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 112475
+                    "endOffset": 112476
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8869,9 +8869,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 112480,
+                    "startOffset": 112481,
                     "endColumn": 67,
-                    "endOffset": 112543
+                    "endOffset": 112544
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8888,10 +8888,10 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112548,
+                    "startOffset": 112549,
                     "endLine": 1472,
                     "endColumn": 12,
-                    "endOffset": 112671
+                    "endOffset": 112672
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8909,10 +8909,10 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 112676,
+                    "startOffset": 112677,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 112815
+                    "endOffset": 112816
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8930,10 +8930,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 112820,
+                    "startOffset": 112821,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 112943
+                    "endOffset": 112944
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8951,9 +8951,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 112948,
+                    "startOffset": 112949,
                     "endColumn": 68,
-                    "endOffset": 113012
+                    "endOffset": 113013
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8970,9 +8970,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 113017,
+                    "startOffset": 113018,
                     "endColumn": 94,
-                    "endOffset": 113107
+                    "endOffset": 113108
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8989,9 +8989,9 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 113112,
+                    "startOffset": 113113,
                     "endColumn": 114,
-                    "endOffset": 113222
+                    "endOffset": 113223
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9008,9 +9008,9 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 113227,
+                    "startOffset": 113228,
                     "endColumn": 112,
-                    "endOffset": 113335
+                    "endOffset": 113336
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9027,9 +9027,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 113340,
+                    "startOffset": 113341,
                     "endColumn": 98,
-                    "endOffset": 113434
+                    "endOffset": 113435
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9046,9 +9046,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 113439,
+                    "startOffset": 113440,
                     "endColumn": 108,
-                    "endOffset": 113543
+                    "endOffset": 113544
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9065,9 +9065,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 113548,
+                    "startOffset": 113549,
                     "endColumn": 110,
-                    "endOffset": 113654
+                    "endOffset": 113655
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9084,9 +9084,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 113659,
+                    "startOffset": 113660,
                     "endColumn": 110,
-                    "endOffset": 113765
+                    "endOffset": 113766
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9103,9 +9103,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 113770,
+                    "startOffset": 113771,
                     "endColumn": 100,
-                    "endOffset": 113866
+                    "endOffset": 113867
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9122,9 +9122,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113871,
+                    "startOffset": 113872,
                     "endColumn": 104,
-                    "endOffset": 113971
+                    "endOffset": 113972
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9141,10 +9141,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 113976,
+                    "startOffset": 113977,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 114083
+                    "endOffset": 114084
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9162,10 +9162,10 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 114088,
+                    "startOffset": 114089,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 114213
+                    "endOffset": 114214
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9183,9 +9183,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 114218,
+                    "startOffset": 114219,
                     "endColumn": 90,
-                    "endOffset": 114304
+                    "endOffset": 114305
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9202,9 +9202,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 114309,
+                    "startOffset": 114310,
                     "endColumn": 122,
-                    "endOffset": 114427
+                    "endOffset": 114428
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9221,10 +9221,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 114432,
+                    "startOffset": 114433,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 114539
+                    "endOffset": 114540
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9242,9 +9242,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 114544,
+                    "startOffset": 114545,
                     "endColumn": 85,
-                    "endOffset": 114625
+                    "endOffset": 114626
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9261,9 +9261,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 114630,
+                    "startOffset": 114631,
                     "endColumn": 103,
-                    "endOffset": 114729
+                    "endOffset": 114730
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9280,10 +9280,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 114734,
+                    "startOffset": 114735,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 114837
+                    "endOffset": 114838
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9301,10 +9301,10 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114842,
+                    "startOffset": 114843,
                     "endLine": 1500,
                     "endColumn": 12,
-                    "endOffset": 114937
+                    "endOffset": 114938
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9322,10 +9322,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 114942,
+                    "startOffset": 114943,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 115055
+                    "endOffset": 115056
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9343,10 +9343,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 115060,
+                    "startOffset": 115061,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 115159
+                    "endOffset": 115160
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9364,10 +9364,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 115164,
+                    "startOffset": 115165,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 115263
+                    "endOffset": 115264
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9385,10 +9385,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 115268,
+                    "startOffset": 115269,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 115389
+                    "endOffset": 115390
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9406,9 +9406,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 115394,
+                    "startOffset": 115395,
                     "endColumn": 87,
-                    "endOffset": 115477
+                    "endOffset": 115478
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9425,9 +9425,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 115482,
+                    "startOffset": 115483,
                     "endColumn": 107,
-                    "endOffset": 115585
+                    "endOffset": 115586
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9444,9 +9444,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 115590,
+                    "startOffset": 115591,
                     "endColumn": 99,
-                    "endOffset": 115685
+                    "endOffset": 115686
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9463,9 +9463,9 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 115690,
+                    "startOffset": 115691,
                     "endColumn": 89,
-                    "endOffset": 115775
+                    "endOffset": 115776
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9482,9 +9482,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 115780,
+                    "startOffset": 115781,
                     "endColumn": 109,
-                    "endOffset": 115885
+                    "endOffset": 115886
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9501,9 +9501,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 115890,
+                    "startOffset": 115891,
                     "endColumn": 83,
-                    "endOffset": 115969
+                    "endOffset": 115970
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9520,9 +9520,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 115974,
+                    "startOffset": 115975,
                     "endColumn": 83,
-                    "endOffset": 116053
+                    "endOffset": 116054
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9539,9 +9539,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 116058,
+                    "startOffset": 116059,
                     "endColumn": 53,
-                    "endOffset": 116107
+                    "endOffset": 116108
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9558,9 +9558,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 116112,
+                    "startOffset": 116113,
                     "endColumn": 63,
-                    "endOffset": 116171
+                    "endOffset": 116172
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9577,9 +9577,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 116176,
+                    "startOffset": 116177,
                     "endColumn": 105,
-                    "endOffset": 116277
+                    "endOffset": 116278
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9596,9 +9596,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 116282,
+                    "startOffset": 116283,
                     "endColumn": 109,
-                    "endOffset": 116387
+                    "endOffset": 116388
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9615,9 +9615,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 116392,
+                    "startOffset": 116393,
                     "endColumn": 83,
-                    "endOffset": 116471
+                    "endOffset": 116472
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9634,9 +9634,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 116476,
+                    "startOffset": 116477,
                     "endColumn": 119,
-                    "endOffset": 116591
+                    "endOffset": 116592
                 },
                 "from": {
                     "file": "H:\\rijal_android\\SimpleCalculator\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
