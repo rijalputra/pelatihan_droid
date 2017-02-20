@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:stretchColumns="0"
+    tools:context="com.muhammad.rijal.falansyah.putra.uas.ListHarga">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:text="List Harga Handphone Lenovo"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textAlignment="center"/>
+    <TableRow>
+        <TextView android:text="Lenovo A6600"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"/>
+        <ImageView
+            android:src="@drawable/a6600"
+            android:layout_width="30dp"
+            android:layout_height="50dp"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:gravity="center_vertical"
+            android:text="1.400.000"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Lenovo Vibe C"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"/>
+        <ImageView
+            android:src="@drawable/vibec"
+            android:layout_width="30dp"
+            android:layout_height="50dp"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:gravity="center_vertical"
+            android:text="1.300.000"/>
+    </TableRow><TableRow>
+<TextView android:text="Lenovo A7000 Turbo" android:layout_height="50dp"
+    android:gravity="center_vertical"/>
+    <ImageView
+        android:src="@drawable/a7000"
+        android:layout_width="30dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:gravity="center_vertical"
+        android:text="2.100.000"/>
+</TableRow><TableRow>
+    <TextView android:text="Lenovo K5 Note" android:layout_height="50dp"
+        android:gravity="center_vertical"/>
+    <ImageView
+        android:src="@drawable/k5note"
+        android:layout_width="30dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:gravity="center_vertical"
+        android:text="2.250.000"/>
+</TableRow><TableRow>
+    <TextView android:text="Lenovo Zuk Z2 Pro" android:layout_height="50dp"
+        android:gravity="center_vertical"/>
+    <ImageView
+        android:src="@drawable/zukz2pro"
+        android:layout_width="30dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:gravity="center_vertical"
+        android:text="5.200.000"/>
+</TableRow><TableRow>
+    <TextView android:text="Lenovo A7700" android:layout_height="50dp"
+        android:gravity="center_vertical"/>
+    <ImageView
+        android:src="@drawable/a7700"
+        android:layout_width="30dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:gravity="center_vertical"
+        android:text="1.600.000"/>
+</TableRow><TableRow>
+    <TextView android:text="Lenovo Lemon 3" android:layout_height="50dp"
+        android:gravity="center_vertical"/>
+    <ImageView
+        android:src="@drawable/lemon3"
+        android:layout_width="30dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:gravity="center_vertical"
+        android:text="1.500.000"/>
+</TableRow><TableRow>
+    <TextView android:text="Lenovo K4 Note" android:layout_height="50dp"
+        android:gravity="center_vertical"/>
+    <ImageView
+        android:src="@drawable/k4note"
+        android:layout_width="30dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:gravity="center_vertical"
+        android:text="2.500.000"/>
+</TableRow>
+    <TableRow>
+    <TextView android:text="Lenovo Vibe P1" android:layout_height="30dp"
+        android:gravity="center_vertical"/>
+        <ImageView
+            android:src="@drawable/vibep1"
+            android:layout_width="30dp"
+            android:layout_height="50dp"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right"
+            android:gravity="center_vertical"
+            android:text="3.900.000"/>
+    </TableRow>
+    <TableRow>
+    <TextView android:text="Lenovo A1000" android:layout_height="80dp"
+        android:gravity="center_vertical"/>
+        <ImageView
+            android:src="@drawable/a1000"
+            android:layout_width="60dp"
+            android:layout_height="80dp"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:layout_gravity="right"
+            android:gravity="center_vertical"
+            android:text="1.400.000"/>
+</TableRow>
+</TableLayout>
